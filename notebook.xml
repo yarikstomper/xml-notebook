@@ -1,0 +1,19 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<notebook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="notebook.xsd">
+    <offices>
+        <office code="OFF001">
+            <name>Main Office</name>
+            <address>Lenina Street, 10</address>
+            <phone>+79991234567</phone>
+        </office>
+    </offices>
+    <employees>
+        <employee id="EMP001">
+            <name>Ivan Ivanov</name>
+            <officeCode>OFF001</officeCode>
+            <phone>+79997654321</phone>
+        </employee>
+    </employees>
+</notebook>
